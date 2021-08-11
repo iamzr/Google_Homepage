@@ -72,6 +72,12 @@ a:visited {
     display: flex;
     align-items: center;
     padding-left: 4px;
+    padding-right: 10px
+}
+
+.dot-9-icon:hover {
+    background-color: rgba(60, 64, 67, 0.08);
+    border-radius: 50%;
 }
 
 .dot-9-icon {
@@ -170,6 +176,12 @@ form {
     width: auto;
     max-width: 584px;
     margin: 0 auto;
+}
+
+.search-bar:hover {
+    background: #fff;
+    box-shadow: 0 1px 6px rgb(32 32 36 / 28%);
+    border-color: rgba(223, 225, 229, 0);
 }
 
 .inside-search-bar {
