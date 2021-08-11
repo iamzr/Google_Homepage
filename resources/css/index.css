@@ -259,3 +259,31 @@ svg {
     width: 24px;
     vertical-align: middle;
 }
+
+.search-buttons-container {
+    height: 70px;
+    padding-top: 18px;
+}
+
+.google-search-button, .feeling-lucky-button {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 11px 14px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 38px;
+    min-height: 54px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.google-search-button:hover, .feeling-lucky-button:hover {
+    box-shadow: 0 1px 1px rgb(0 0 0 /10%);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
+}
