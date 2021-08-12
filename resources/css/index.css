@@ -284,8 +284,7 @@ svg {
     margin: 11px 14px;
     padding: 0 16px;
     line-height: 27px;
-    height: 38px;
-    min-height: 54px;
+    height: 36px;
     text-align: center;
     cursor: pointer;
 }
