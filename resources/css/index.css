@@ -49,6 +49,7 @@ a:visited {
     display: inline-block;
     padding: 5px;
     margin: 0 5px; 
+    margin-left: 15px;
 }
 
 .fill-upper-right {
